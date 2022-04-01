@@ -1,0 +1,14 @@
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Hammer.csprojAssemblyReference.cache
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Hammer.AssemblyInfoInputs.cache
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Hammer.AssemblyInfo.cs
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Hammer.csproj.CoreCompileInputs.cache
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Hammer.dll
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Hammer.pdb
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/bin/Debug/netstandard2.0/Hammer.deps.json
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/bin/Debug/netstandard2.0/Hammer.dll
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/bin/Debug/netstandard2.0/Hammer.pdb
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Views/ListProductView.xaml.g.cs
+/Users/luisenrique/RiderProjects/Hammer/Hammer/Hammer/obj/Debug/netstandard2.0/Views/AddProductView.xaml.g.cs
